@@ -1,4 +1,4 @@
-#AI Project Methodology Report
+# AI Project Methodology Report
 
 Name: Raviteja Naraharisetti, Yannick Petrus  -  [AIS] 
 
