@@ -17,9 +17,14 @@ Project management framework:
 We have chosen the Agile Kanban approach to develop this project. We want the development to be flexible, and to have defined tasks and functionalities asked by the customers to implement. Empowering the developers  team by making the interactions with the clients direct. To have shorter but more interactions with them during the development for more clearly defined terms and having a close follow-up of the project and to avoid misunderstandings. 
 
 Team organization:
+
 Functional Part - Yannick
+
 Data preparation, feature engineering - Yannick
+
 ML Modeling – Raviteja
+
 MLFlow - Raviteja
+
 Shap – Yannick
 
