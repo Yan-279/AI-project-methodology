@@ -29,3 +29,8 @@ MLFlow - Raviteja
 Shap – Yannick
 
 ![image](https://user-images.githubusercontent.com/61945844/182046333-e0f286a7-91cc-4b4b-9629-8c8f3792d992.png)
+
+![image](https://user-images.githubusercontent.com/74925493/182046959-3242c74e-013a-4c37-b8ad-06725b71e68d.png)
+
+![image](https://user-images.githubusercontent.com/74925493/182046980-d6385294-7efb-450a-be00-859cfc0554fa.png)
+
